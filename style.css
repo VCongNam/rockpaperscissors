@@ -1,0 +1,40 @@
+body {
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial;
+  justify-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.title {
+  font-size: 30px;
+  font-weight: bold;
+}
+.move-icon {
+  height: 50px;
+}
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  border: 3px solid white;
+  border-radius: 60px;
+  width: 120px;
+  height: 120px;
+  margin: 15px;
+}
+.js-result {
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 60px;
+}
+
+.js-score {
+  margin-top: 60px;
+}
+.reset {
+    background-color: white;
+    border: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    cursor: pointer;
+}
